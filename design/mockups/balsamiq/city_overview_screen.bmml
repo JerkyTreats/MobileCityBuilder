@@ -207,12 +207,12 @@
             <text>FOOD%20SUPPLY</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="95" y="9" w="-1" h="-1" measuredW="90" measuredH="26" zOrder="3" locked="false" isInGroup="43">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="95" y="9" w="-1" h="-1" measuredW="85" measuredH="26" zOrder="3" locked="false" isInGroup="43">
           <controlProperties>
             <bold>false</bold>
             <color>40463</color>
             <size>18</size>
-            <text>24%20/%2060%3A00</text>
+            <text>13%20/%2060%3A00</text>
           </controlProperties>
         </control>
         <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="168" y="39" w="-1" h="-1" measuredW="17" measuredH="24" zOrder="4" locked="false" isInGroup="43">

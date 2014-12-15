@@ -22,6 +22,7 @@
           <state>disabled</state>
           <text>+30%20per%2035%3A00</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -38,6 +39,7 @@
           <size>60</size>
           <text>WOOD</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -70,6 +72,7 @@
           <state>disabled</state>
           <text>+18%20per%201%3A00%3A00</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -86,6 +89,7 @@
           <size>60</size>
           <text>FOOD</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -105,7 +109,6 @@
           <state>disabled</state>
           <text>Purchase%20Building</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -122,6 +125,7 @@
           <size>60</size>
           <text>STONE</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -141,7 +145,6 @@
           <state>disabled</state>
           <text>+4%20per%202%3A15%3A00</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -158,10 +161,11 @@
           <size>60</size>
           <text>TAXES</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::Button" x="172" y="1403" w="610" h="103" measuredW="215" measuredH="48" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Button" x="172" y="1403" w="610" h="103" measuredW="361" measuredH="48" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <size>40</size>
