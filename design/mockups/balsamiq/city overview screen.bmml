@@ -164,7 +164,7 @@
             <align>left</align>
             <shape>rectangle</shape>
             <size>14</size>
-            <text>STONE%20SUPPLY</text>
+            <text>WOOD%20SUPPLY</text>
           </controlProperties>
         </control>
         <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="106" y="9" w="-1" h="-1" measuredW="78" measuredH="26" zOrder="3" locked="false" isInGroup="41">
@@ -175,10 +175,12 @@
             <text>0%20/%2060%3A00</text>
           </controlProperties>
         </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="157" y="39" w="-1" h="-1" measuredW="27" measuredH="24" zOrder="4" locked="false" isInGroup="41">
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="173" y="39" w="-1" h="-1" measuredW="11" measuredH="24" zOrder="4" locked="false" isInGroup="41">
           <controlProperties>
+            <bold>true</bold>
+            <color>13369344</color>
             <size>16</size>
-            <text>213</text>
+            <text>0</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -202,7 +204,7 @@
             <align>left</align>
             <shape>rectangle</shape>
             <size>14</size>
-            <text>STONE%20SUPPLY</text>
+            <text>FOOD%20SUPPLY</text>
           </controlProperties>
         </control>
         <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="95" y="9" w="-1" h="-1" measuredW="90" measuredH="26" zOrder="3" locked="false" isInGroup="43">
@@ -213,12 +215,12 @@
             <text>24%20/%2060%3A00</text>
           </controlProperties>
         </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="172" y="39" w="-1" h="-1" measuredW="11" measuredH="24" zOrder="4" locked="false" isInGroup="43">
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="168" y="39" w="-1" h="-1" measuredW="17" measuredH="24" zOrder="4" locked="false" isInGroup="43">
           <controlProperties>
-            <bold>true</bold>
-            <color>13369344</color>
+            <bold>false</bold>
+            <color>0</color>
             <size>16</size>
-            <text>0</text>
+            <text>13</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
