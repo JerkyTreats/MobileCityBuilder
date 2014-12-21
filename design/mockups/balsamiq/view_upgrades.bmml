@@ -19,7 +19,6 @@
           <size>60</size>
           <text>WOOD</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -64,7 +63,7 @@
         <align>center</align>
         <shape>rectangle</shape>
         <size>40</size>
-        <text>+35%20per%2030%3A00</text>
+        <text/>
       </controlProperties>
     </control>
     <control controlID="105" controlTypeID="com.balsamiq.mockups::Button" x="548" y="634" w="213" h="61" measuredW="213" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
@@ -132,6 +131,7 @@
           <size>60</size>
           <text>FOOD</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -147,7 +147,7 @@
         <align>center</align>
         <shape>rectangle</shape>
         <size>40</size>
-        <text>+25%20per%201%3A00%3A00</text>
+        <text/>
       </controlProperties>
     </control>
     <control controlID="119" controlTypeID="com.balsamiq.mockups::Button" x="548" y="858" w="213" h="61" measuredW="213" measuredH="48" zOrder="22" locked="false" isInGroup="-1">
@@ -191,7 +191,6 @@
           <size>60</size>
           <text>STONE</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -207,7 +206,7 @@
         <align>center</align>
         <shape>rectangle</shape>
         <size>40</size>
-        <text>+5%20per%2045%3A00</text>
+        <text/>
       </controlProperties>
     </control>
     <control controlID="131" controlTypeID="com.balsamiq.mockups::Button" x="548" y="1086" w="213" h="61" measuredW="213" measuredH="48" zOrder="30" locked="false" isInGroup="-1">
@@ -251,7 +250,6 @@
           <size>60</size>
           <text>TAXES</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#resourceInfoTab</src>
       </controlProperties>
     </control>
@@ -267,7 +265,7 @@
         <align>center</align>
         <shape>rectangle</shape>
         <size>40</size>
-        <text>+7%20per%201%3A45%3A00</text>
+        <text/>
       </controlProperties>
     </control>
     <control controlID="143" controlTypeID="com.balsamiq.mockups::Button" x="548" y="1315" w="213" h="61" measuredW="213" measuredH="48" zOrder="38" locked="false" isInGroup="-1">
@@ -368,6 +366,34 @@
       <controlProperties>
         <src>./assets/icon_Icons_ressource_gold.png</src>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Label" x="492" y="499" w="-1" h="-1" measuredW="262" measuredH="48" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>40</size>
+        <text>+14%20per%2032%3A20</text>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::Label" x="484" y="723" w="-1" h="-1" measuredW="267" measuredH="48" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>40</size>
+        <text>+33%20per%2030%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Label" x="492" y="951" w="-1" h="-1" measuredW="241" measuredH="48" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <size>40</size>
+        <text>+5%20per%2045%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Label" x="492" y="1180" w="-1" h="-1" measuredW="252" measuredH="48" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <size>40</size>
+        <text>-7%20per%201%3A45%3A35</text>
       </controlProperties>
     </control>
   </controls>
