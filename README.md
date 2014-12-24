@@ -8,3 +8,12 @@ Project to be used a design/programming challenge.
   - Strengthen core loop concept > programmable entity
   - Strengthen system design/architecture
   - Strengthen programming skills
+
+/Design
+ - mockups
+ 	-- balsamiq mockups of gameplay screens
+ 	-- png of mockups
+ 	-- reference images (taken from the Google)
+ - documentation
+ 	-- documentation of mockups
+
